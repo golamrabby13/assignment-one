@@ -47,3 +47,102 @@ font-weight: 500;
 
 
 /*step one done*/
+
+
+
+
+/*section two starts*/
+
+
+
+
+
+
+
+.sec-two{
+    text-align: center;
+    font-size: 50px;
+}
+.sec-two-part{
+color:Fuchsia;
+
+}
+.second-container{
+    display: flex;
+    margin: 10px;
+   
+}
+.mission{
+    background-color:yellow; 
+    margin-left: 20%;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.vission{
+    background-color: hotpink;
+    padding: 10px;
+    border-radius: 15px;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.goals{
+    background-color:gray; 
+    margin-right: 20%;
+    padding: 10px;
+    border-radius: 15px;
+}
+section img{
+    width: 30%;
+}
+.head-skills{
+    font-size: 30px;
+}
+.skills{
+    font-size: 18px;
+}
+
+/*secon done*/
+
+/*third section starts */
+
+
+
+.container-three{
+    display: flex;
+    margin-top: 100px;
+
+}
+.laptop{
+    margin-left: 20%;
+    padding: 10px;
+}
+
+.laptop img{
+    width: 80%;
+ }
+
+.third-para{
+    margin-right: 20%;
+    padding: 10px;}
+ .sec-three{
+     font-size: 30px;
+ }
+ .article{
+     font-size: 20px;
+ }
+
+    .link-button-two{
+        text-decoration: none;
+        background-color: orange;
+        padding: 10px 15px;
+    border-radius: 15px;
+    background-image: linear-gradient(Chocolate,Crimson);
+    color: Cornsilk;
+    font-weight: 700;
+    
+    }
+
+
+/*third section done*/
