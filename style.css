@@ -1,3 +1,4 @@
+
 /*1St section starts*/
 body{
     margin: 0;
@@ -24,7 +25,7 @@ width: 50%;
 
 
 
-.first-head-part{
+.span-text{
     color:Fuchsia;
 }
 
@@ -47,10 +48,6 @@ font-weight: 500;
 
 
 /*step one done*/
-
-
-
-
 /*section two starts*/
 
 
@@ -126,7 +123,7 @@ section img{
 .third-para{
     margin-right: 20%;
     padding: 10px;}
- .sec-three{
+ .description{
      font-size: 30px;
  }
  .article{
@@ -146,3 +143,87 @@ section img{
 
 
 /*third section done*/
+/*fourth section starts*/
+
+
+.container-four{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+    
+     image width :5px;
+
+}
+
+.fourth-section-width{
+    width: 50%;
+    padding-left: 7%;
+    }
+
+    .link-button-four{
+        text-decoration: none;
+        background-color: orange;
+        padding: 10px 15px;
+    border-radius: 15px;
+    background-image: linear-gradient(Chocolate,Crimson);
+    color: Cornsilk;
+    font-weight: 700;
+    }
+
+    /* fourth step done*/
+    /* fifth starts*/
+    .flexible-container-five{
+        display: flex;
+        margin-left: 7%;
+    } 
+.description-job{
+    font-size: 45px;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom:20px ;
+}
+.five-width{
+    width: 50%;
+    padding-left: 7%;
+}
+.link-button-five{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 15px;
+border-radius: 15px;
+background-image: linear-gradient(Chocolate,Crimson);
+color: Cornsilk;
+font-weight: 700;
+}
+.article-para{
+    font-size: 19px;
+    width: 80%;
+    padding-right: 3%;
+}
+
+/*fifth done */
+/*last starts*/
+
+.last-part{
+    background-color: black;
+}
+.digit{
+    font-style: normal;
+    color: lightgreen;
+}
+.italic{
+    font-style: italic;
+    color: lightcoral;
+}
+.last-p{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 0;
+    padding-bottom: 50px;
+}
+.last-head{
+    text-align: center;
+    padding-top: 20px;
+}
+/*end*/
